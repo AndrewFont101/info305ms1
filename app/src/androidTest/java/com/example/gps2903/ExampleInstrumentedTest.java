@@ -1,4 +1,4 @@
-package com.example.gpsss;
+package com.example.gps2903;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.gpsss", appContext.getPackageName());
+        assertEquals("com.example.gps2903", appContext.getPackageName());
     }
 }

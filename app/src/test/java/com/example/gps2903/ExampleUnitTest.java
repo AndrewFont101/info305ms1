@@ -1,4 +1,4 @@
-package com.example.gpsss;
+package com.example.gps2903;
 
 import org.junit.Test;
 
